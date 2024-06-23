@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **rakeshnatholiya1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RihcnCM32mfsQaQ13K2Ma8DtWlzk7htA/view?usp=sharing](https://drive.google.com/file/d/1RihcnCM32mfsQaQ13K2Ma8DtWlzk7htA/view?usp=sharing)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/er_rakeshsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_rakeshsharma" height="30" width="40" /></a>
