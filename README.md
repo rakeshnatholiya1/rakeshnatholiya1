@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [https://rakeshsharma.netlify.app/](https://rakeshsharma.netlify.app/)
+
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, React**
 
